@@ -1,1 +1,24 @@
-
+<!DOCTYPE Html>
+<head>
+  <tittle> Diseño Interactivo </tittle>
+</head>
+<body>
+	<!-- <div class="main.css">main.css</div> -->//
+	<h1>Actividad uno.</h1>
+	<ul>
+		<li><a href="index.html"></a>Página Principal</li>
+		<li><a href="Parcial1.html">Parcial uno</a></li>
+	</ul>	
+  <h2>Actividad sobre el proyecto.</h2>
+  <h3>Retroalimentación por parte de otro equipo</h3>
+  <p>La problematica que tienen planteada es algo muy general no obstante es muy difícil 
+  poder ayudar a toda la comunidad la cual sufre de analfabetismo. En mi opinión deberían 
+  de enfocarse en cierto sector que sea un tanto "pequeño" y de ahi en adelante partir 
+  hacia las siguientes comunidades, Luis menciono que la mayoría de las 
+  comunidades afectadas por esto es que viven en las mismas condiciones entonces ir de 
+  poco a mucho seria una buena manera de iniciar su problemática también cabe mencionar que 
+  deben de identificar algo que emocione y les guste a los analfabetas para que no se vean 
+  obligados a tomar el curso.
+  Además hacerlo lo más interecativo posible para despertar el mayor interes de los usuarios</p>
+</body>
+</html>
