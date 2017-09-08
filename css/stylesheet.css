@@ -1,5 +1,5 @@
 h1{
-  font-family: Verdana;
+  	font-family: Verdana;
 	font-weight: bold;
 	text-align: center;
 	padding-top: 25px;
@@ -7,34 +7,28 @@ h1{
 }
 
 h2{
-  font-family: Verdana;
+  	font-family: Verdana;
 	font-weight: bold;
-	text-align: center;
-	padding-top: 25px;
-	padding-bottom: 25px;
 }
 
+	
 h3{
-  font-family: Verdana;
+  	font-family: Verdana;
 	font-weight: bold;
-	text-align: center;
 }
 
 h4{
-  font-family: Verdana;
+  	font-family: Verdana;
 	font-weight: bold;
-	text-align: center;
 }
 
 h5{
-  font-family: Verdana;
+  	font-family: Verdana;
 	font-weight: bold;
-	text-align: center;
-
 }
 
 h6{
-  font-family: Verdana;
+  	font-family: Verdana;
 	font-weight: bold;
 	text-align: center;
 	padding-bottom: 25px;
@@ -44,9 +38,31 @@ img{
 
 }
 p{
-  font-family: Verdana;
+  	font-family: Verdana;
   
 }
 body{
-  background-color:#73C6B6;
+  	background-color:#73C6B6;
+}
+
+a {
+	text-decoration: none;
+	color: #3D59AB;
+	font-family: Verdana, sans-serif;
+}
+
+span {
+	font-weight: bold;
+	font-size: 18px;
+	color: #ffffff;
+}
+
+div {
+	border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #2471A3;
+	height: 60px;
+	width: 150px;
+	margin: auto;
+	text-align: center;
 }
