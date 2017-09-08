@@ -1,28 +1,52 @@
 h1{
-  family-font:Verdana;
+  font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
 }
+
 h2{
-  family-font:sans-serif;
+  font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
 }
+
 h3{
-  family-font:sans-serif;
+  font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
 }
+
 h4{
-  family-font:sans-serif;
+  font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
 }
+
 h5{
-  family-font:sans-serif;
+  font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+
 }
+
 h6{
-  family-font:sans-serif;
+  font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 25px;
 }
+
 img{
 
 }
 p{
-  family-font:sans-serif;
+  font-family: Verdana;
   
 }
 body{
-  background-color:#73C6B6 ;
+  background-color:#73C6B6;
 }
