@@ -40,9 +40,17 @@ img{
 
 }
 p{
-  	font-family: Verdana;
-  
+  	font: Verdana 100%;
 }
+
+ul{
+	font: Verdana 100%;
+}
+
+ol{
+	font: Verdana 100%;
+}
+
 body{
   	background-color:#73C6B6;
 }
