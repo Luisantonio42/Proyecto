@@ -1,9 +1,18 @@
+body{
+	background-color: white;
+  	font-family: Raleway, sans-serif;
+}
+
+a{
+	text-decoration: none;
+}
+
 h1{
-  	font-family: Verdana;
+  	color: white;
+  	font-size: 42px;
+  	font-weight: 600;
+  	text-align: center;
 	font-weight: bold;
-	text-align: center;
-	padding-top: 25px;
-	padding-bottom: 25px;
 }
 
 h2{
@@ -35,43 +44,58 @@ h6{
 	color:#6495ED;
 }
 
-img{
-	width:100%;
-
+#banner {
+  background-image: src("Images/libros.jpg");
+  background-size: cover;
+  background-position: bottom center;
+  height: 700px;
+  width: 100%;
 }
+
+#banner .content h1 {
+  border: 3px solid white;
+  position: relative;
+  top: 50px;
+  width: 400px;
+  margin: 0 auto;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 940px; 
+  padding: 0 10px;
+}
+
+.nav { 
+  background: #000;
+  height: 80px; 
+  width: 100%;
+}
+
+.nav ul {
+  height: 80px;
+  list-style: none;
+  margin: 0 auto; 
+  padding: 0;
+}
+
+.nav ul li {
+  color: #fff;
+  display: inline-block; 
+  height: 80px;
+  line-height: 80px; 
+  list-style: none;
+  padding: 0 10px;
+  transition: background .5s;
+}
+
+.btn:hover, .nav ul li:hover {
+  background: #117bff;
+  cursor: pointer; 
+  transition: background .5s;  
+}
+
 p{
-  	font: Verdana 120%;
-	align:justify;
-}
-
-ul{
-	font: Verdana 120%;
-}
-
-ol{
-	font: Verdana 120%;
-}
-
-body{
-  	background-color:#73C6B6;
-}
-
-a {
-	text-decoration: none;
-	color: #3D59AB;
-	font-family: Verdana, sans-serif;
-}
-
-span {
-	font-size: 16px;
-	color: #ffffff;
-}
-
-div {
-	border-radius: 5px;
-	border: 2px solid #6495ED;
-	background-color: #2471A3;
-	height: 40px;
-	width: 200px;
-	text-align: center;
+  	color: grey;
+  	font-size: 16px;
 }
