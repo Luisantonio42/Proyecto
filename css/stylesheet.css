@@ -48,8 +48,6 @@ h6{
   background-image: url("libros.jpg");
   background-size: cover;
   background-position: bottom center;
-  height: 700px;
-  width: 100%;
 }
 
 #banner .content h1 {
