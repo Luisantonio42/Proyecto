@@ -45,9 +45,11 @@ h6{
 }
 
 #banner {
-  background-image: url("libros.jpg");
+  background-image: url("https://www.facebook.com/dhasia.wezka/photos/a.1511585469104606.1073741829.1459416147654872/1937860913143724/?type=3");
   background-size: cover;
   background-position: bottom center;
+  height: 700px;
+  width: 100%;
 }
 
 #banner .content h1 {
