@@ -96,14 +96,14 @@ p{
 }
 
 .caption {
-  opacity: 0.5;
+  opacity: 0.75;
   background-color: white;
   color: black;
   display: block;
   font-size: 14px;
   font-style: italic;
-  line-height: 14px;
-  margin-left: 20px;
+  line-height: 140px;
+  margin-left: 200px;
   padding: 10px;
   position: relative;
   top: 80%;
