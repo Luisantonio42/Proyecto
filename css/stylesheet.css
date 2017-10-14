@@ -16,28 +16,23 @@ h1{
 }
 
 h2{
-  	font-family: Verdana;
 	font-weight: bold;
 }
 
 	
 h3{
-  	font-family: Verdana;
 	font-weight: bold;
 }
 
 h4{
-  	font-family: Verdana;
 	font-weight: bold;
 }
 
 h5{
-  	font-family: Verdana;
 	font-weight: bold;
 }
 
 h6{
-  	font-family: Verdana;
 	font-weight: bold;
 	text-align: center;
 	padding-bottom: 25px;
@@ -96,6 +91,21 @@ h6{
 }
 
 p{
-  	color: grey;
+  	color: black;
   	font-size: 16px;
+}
+
+.caption {
+  opacity: 0.5;
+  background-color: white;
+  color: black;
+  display: block;
+  font-size: 14px;
+  font-style: italic;
+  line-height: 14px;
+  margin-left: 20px;
+  padding: 10px;
+  position: relative;
+  top: 80%;
+  width: 60%;
 }
