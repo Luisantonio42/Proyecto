@@ -92,7 +92,7 @@ h6{
 
 p{
   	color: black;
-  	font-size: 16px;
+  	font-size: 20px;
 }
 
 .caption {
@@ -109,6 +109,7 @@ p{
 }
 
 #ulListas {
+    font-size: 20px;
     list-style: none; 
     padding: 0;
     margin-bottom: 4em;
