@@ -106,7 +106,7 @@ p{
     display: block;
     padding: .4em .4em .4em .4em;
     margin: .5em 0 .5em 2.5em;
-    background: #ddd;
+    background-color: #ddd;
     color: #444;
     text-decoration: none;
     transition: all .3s ease-out;   
@@ -121,7 +121,7 @@ p{
     left: -2.5em;
     top: 50%;
     margin-top: -1em;
-    background: Black;
+    background-color: black;
     height: 2em;
     width: 2em;
     line-height: 2em;
@@ -141,5 +141,5 @@ p{
 
 #ulListas li:hover:after{
     left: -.5em;
-    border-left-color: #fa8072;             
+    border-left-color: black;             
 }
